@@ -14,7 +14,7 @@ This project analyzes mental health data to identify factors related to depressi
 - Scikit-learn (Logistic Regression, Random Forest, SVM, KNN)
 - Confusion Matrix & Evaluation Metrics
 
-## 📊 Machine Learning Models Compared
+## Machine Learning Models Compared
 
 | Model               | Accuracy | Precision | Recall | F1-score |
 |--------------------|----------|-----------|--------|----------|
@@ -38,10 +38,12 @@ This project analyzes mental health data to identify factors related to depressi
 2. Make sure to install required libraries (most are standard)
 3. Run all cells in order
 
-##  Dataset
+##  Dataset 
 
 This project uses a mental health dataset containing:
 
 - `phq_score`, `gad_score`, `epworth_score`, `bmi`
 - Gender, Age, Sleep, Mental Health labels
+
+  https://www.kaggle.com/datasets/shahzadahmad0402/depression-and-anxiety-data
 
